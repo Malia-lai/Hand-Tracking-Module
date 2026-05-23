@@ -1,5 +1,5 @@
 # Hand-Tracking-Module
-A real time hand tracking module for sign language with voice!
+A real time hand tracking module for sign language with voice feature!
 
 Uses LSTM neutral network 
 
