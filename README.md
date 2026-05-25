@@ -19,7 +19,7 @@ Clone the repo
 # Use 
 collect.py is to train your model with any word you want (add your word + key to click inside the GESTURES dictionary and boot the code)
 
-samplenum.py to check number of simples and/or if the numpy file containing your data is corrupted.
+samplenum.py to check number of samples and/or if the numpy file containing your data is corrupted.
 
 delete.py delete a specific gesture's data by writing the name you gave it inside the GESTURE dictionary.
 
