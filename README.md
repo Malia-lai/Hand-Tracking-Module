@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/30772251-d9f6-4f12-aa5e-f93aec79ea8d
 
 # Features 
 - Editable data base (delete, add or change sign data base)
-- Over 90% accurency
+- Over 90% accuracy
 - voice feature reading the signs
 
 
